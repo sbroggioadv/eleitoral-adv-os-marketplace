@@ -1,5 +1,21 @@
 # eleitoral-adv-os
 
+> ## ⚖️ Este repositório NÃO é software livre
+>
+> O código fica visível para viabilizar a instalação no Claude/Cowork — não porque seja gratuito.
+>
+> **ELEITORAL ADV-OS — R$ 498,00, pagamento único** (sem assinatura, sem recorrência)
+> 👉 **[Adquirir a licença](https://pay.kirvano.com/896c41c2-bc0f-42a7-99a0-2fe74ea3c30f)**
+>
+> **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+>
+> Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
+>
+> **Já comprou?** Nada a fazer — sua licença cobre o uso e o fork para instalação. Este aviso vale de
+> 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
+
+
 **O sistema operacional do advogado eleitoral** — contencioso dual, para quem **move** e para quem **responde**, do registro ao mandato e dos crimes às contas.
 
 Cobre o Direito Eleitoral brasileiro com **53 skills em 9 camadas**, porta única (`/eleitoral-master`) que identifica o lado, a fase do ciclo e a via, dirime as skills e fecha por gate de validação.

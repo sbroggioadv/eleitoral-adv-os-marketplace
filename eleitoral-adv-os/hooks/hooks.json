@@ -1,12 +1,14 @@
 {
-  "SessionStart": [
-    {
-      "hooks": [
-        {
-          "type": "command",
-          "command": "echo 'eleitoral-adv-os carregado — rode /start-eleitoral para configurar o escritório ou /eleitoral-master para conduzir o caso (move × responde).'"
-        }
-      ]
-    }
-  ]
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'eleitoral-adv-os carregado — rode /start-eleitoral para configurar o escritório ou /eleitoral-master para conduzir o caso (move × responde).'"
+          }
+        ]
+      }
+    ]
+  }
 }
